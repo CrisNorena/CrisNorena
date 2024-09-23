@@ -1,7 +1,7 @@
 # Hello! Im Cristhian! Multimedia Designer
 
 ## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+Hola soy un diseñador multimedia apasionado por los medios, los videojuegos y aprender cosas nuevas. Soy de Colombia y estoy abierto para aportar todos mis conocimientos velando por los objetivos del equipo.
 
 ## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+Siempre podemos hablar por via mail en lulointeractivo@gmail.com
