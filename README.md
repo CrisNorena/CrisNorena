@@ -5,3 +5,6 @@ Hola soy un diseñador multimedia apasionado por los medios, los videojuegos y a
 
 ## Contact me
 Siempre podemos hablar por via mail en lulointeractivo@gmail.com
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
