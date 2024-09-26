@@ -5,6 +5,3 @@ Hola soy un diseñador multimedia apasionado por los medios, los videojuegos y a
 
 ## Contact me
 Siempre podemos hablar por via mail en lulointeractivo@gmail.com
-
-## Hobbies
-- Dancing: ...
